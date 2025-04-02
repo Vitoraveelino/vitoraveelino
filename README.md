@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
 📌 Atuando como desenvolvedor fullstack pleno  
-📌 Meu email: vitoaveelino@gmail.com  
-📌 Meu LinkedIn: [Vitor Avelino](https://www.linkedin.com/in/vitor-avelino-42b0a4260/)  
 📌 Cursando Gestão de Tecnologia da Informação na Cruzeiro Sul  
 📌 Formado em Análise e Desenvolvimento de Sistemas  
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!  
@@ -41,3 +39,4 @@
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
