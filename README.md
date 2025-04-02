@@ -4,6 +4,8 @@
 
 ##
 📌 Atuando como desenvolvedor fullstack pleno  
+📌 Meu email: vitoaveelino@gmail.com  
+📌 Meu LinkedIn: [Vitor Avelino](https://www.linkedin.com/in/vitor-avelino-42b0a4260/)  
 📌 Cursando Gestão de Tecnologia da Informação na Cruzeiro Sul  
 📌 Formado em Análise e Desenvolvimento de Sistemas  
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!  
@@ -16,7 +18,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://user-images.githubusercontent.com/85856457/200485239-6d28d10b-7332-4866-9c95-56cd6890b369.PNG" width="150px" align="right" borderRadius="100px" />  
+   <img src="https://i.postimg.cc/2ynCFN4X/vitor-desenho.jpg" width="150px" align="right" borderRadius="100px" />  
 </div>
 
 #####  Contatos:
