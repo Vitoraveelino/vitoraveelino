@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌 Atuando como desenvolvedor fullstack pleno  
-📌 Meu email: vitoaveelino@gmail.com  
-📌 Meu LinkedIn: [Vitor Avelino](https://www.linkedin.com/in/vitor-avelino-42b0a4260/)  
+📌 Atuando como desenvolvedor fullstack pleno   
 📌 Cursando Gestão de Tecnologia da Informação na Cruzeiro Sul  
 📌 Formado em Análise e Desenvolvimento de Sistemas  
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!  
@@ -18,7 +16,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://i.postimg.cc/2ynCFN4X/vitor-desenho.jpg" width="150px" align="right" borderRadius="100px" />  
+  " />  
 </div>
 
 #####  Contatos:
@@ -41,4 +39,5 @@
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
 
